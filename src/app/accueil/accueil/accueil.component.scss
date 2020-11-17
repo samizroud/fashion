@@ -1,0 +1,54 @@
+img{
+    width: 100%;
+    height: 90%;
+}
+#mySidenav a {
+    position: fixed;
+    left: 0px;
+    transition: 0.3s;
+    padding: 10px;
+    width: 120px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+   
+    }
+    
+    #mySidenav a:hover {
+    left: 8px;
+    }
+
+    #propos {
+        top: 20%;
+        background-image: url('src/assets/boutton.png'); 
+        border-top-right-radius: 30px;
+        border-bottom-right-radius:30px ;    
+    }
+    
+    #actualite {
+    top: 30%;
+    background-image: url('src/assets/boutton.png'); 
+    border-top-right-radius: 30px;
+    border-bottom-right-radius:30px ;    
+}
+    
+    #formation {
+    top: 40%;
+    background-image: url('src/assets/boutton.png'); 
+    border-top-right-radius: 30px;
+    border-bottom-right-radius:30px ;  
+  }
+    
+    #partenaire {
+    top: 50%;
+    background-image: url('src/assets/boutton.png'); 
+    border-top-right-radius: 30px;
+    border-bottom-right-radius:30px ;
+   }
+    
+    #contact {
+    top: 60%;
+    background-image: url('src/assets/boutton.png'); 
+    border-top-right-radius: 30px;
+    border-bottom-right-radius:30px ;
+    }
